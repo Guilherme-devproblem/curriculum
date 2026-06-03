@@ -1,0 +1,33 @@
+body {
+    margin: 0%;
+}
+.topo {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-size: 150%;
+    background-color: rgb(66, 66, 66)
+}
+img {
+    border-radius: 150px;
+    border: 4px solid black;
+}
+h1 {
+    color: rgb(196, 196, 196);
+}
+.pessoal {
+    font-size: 150%;
+    gap: 30px;
+}
+.objetivo {
+    font-size: 150%;
+}
+.formada {
+    font-size: 150%;
+}
+.extra {
+    font-size: 150%;
+}
+.x {
+    font-size: 150%;
+}
